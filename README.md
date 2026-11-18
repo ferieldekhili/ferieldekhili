@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://ferieldekhili.github.io"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-ferieldekhili.github.io-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=B45309" alt="Visit my portfolio"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/feriel-dekhili-b72bb8223"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4C1D95" alt="LinkedIn"></a>
   <a href="mailto:feriel.dekhili@efrei.net"><img src="https://img.shields.io/badge/Email-feriel.dekhili%40efrei.net-EC4899?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=9D174D" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=ferieldekhili&style=for-the-badge&color=F59E0B&label=Profile%20views" alt="Profile views">
